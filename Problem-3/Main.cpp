@@ -25,13 +25,11 @@ void printPrimeFactors(int targetNumber) {
 
 int main() {
     int targetNumber = 13195;
-
     // Check if the number itself is prime
     if (isPrime(targetNumber)) {
         std::cout << "The target number is prime." << std::endl;
     } else {
         printPrimeFactors(targetNumber);
     }
-
     return 0;
 }
