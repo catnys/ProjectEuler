@@ -1,4 +1,29 @@
-# Project Euler Solutions in C++
+# ProjectEuler Solutions in C++
+
+[![GitHub issues](https://img.shields.io/github/issues/aintburak/ProjectEuler?style=for-the-badge&labelColor=blue)](https://github.com/aintburak/ProjectEuler/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/aintburak/ProjectEuler?style=for-the-badge&labelColor=green)](https://github.com/aintburak/ProjectEuler/pulls)  [![GitHub stars](https://img.shields.io/github/stars/aintburak/ProjectEuler?style=for-the-badge&labelColor=yellow)](https://github.com/aintburak/ProjectEuler/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/aintburak/ProjectEuler?style=for-the-badge&labelColor=orange)](https://github.com/aintburak/ProjectEuler/forks)  [![GitHub watchers](https://img.shields.io/github/watchers/aintburak/ProjectEuler?style=for-the-badge&labelColor=purple)](https://github.com/aintburak/ProjectEuler/watchers)  ![GitHub](https://img.shields.io/github/license/aintburak/ProjectEuler?style=for-the-badge)
+
+###### tags: `C` `C++` `Project` `Euler` `Solutions`  
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">ProjectEuler</h3>
+  <div align="center">
+    C/C++ for Everyone.
+    <br />
+    <a href="https://github.com/aintburak/ProjectEuler">Repository Link</a>
+    ·
+    <a href="https://github.com/aintburak/ProjectEuler/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/aintburak/ProjectEuler/pulls">Contribute</a>
+  </div>
+</div>
+
+---
 
 ![Project Euler](https://projecteuler.net/themes/logo_default.png)
 
