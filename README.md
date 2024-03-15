@@ -63,7 +63,7 @@ Navigate to the problem you want to run:
 cd ProjectEuler/src/ProblemX
 ```
 
-Compile and run the C++ file {replace X with the specific problem number that you'd like to work with hands-on-xp :) }
+Compile and run the C++ file (replace X with the specific problem number)
 
 ```bash
 g++ ProblemX.cpp -o ProblemX
