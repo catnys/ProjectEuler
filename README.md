@@ -1,8 +1,8 @@
-# ProjectEuler Solutions in C++
+# ProjectEuler Solutions
 
 [![GitHub issues](https://img.shields.io/github/issues/aintburak/ProjectEuler?style=for-the-badge&labelColor=blue)](https://github.com/aintburak/ProjectEuler/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/aintburak/ProjectEuler?style=for-the-badge&labelColor=green)](https://github.com/aintburak/ProjectEuler/pulls)  [![GitHub stars](https://img.shields.io/github/stars/aintburak/ProjectEuler?style=for-the-badge&labelColor=yellow)](https://github.com/aintburak/ProjectEuler/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/aintburak/ProjectEuler?style=for-the-badge&labelColor=orange)](https://github.com/aintburak/ProjectEuler/forks)  [![GitHub watchers](https://img.shields.io/github/watchers/aintburak/ProjectEuler?style=for-the-badge&labelColor=purple)](https://github.com/aintburak/ProjectEuler/watchers)  ![GitHub](https://img.shields.io/github/license/aintburak/ProjectEuler?style=for-the-badge)
 
-###### tags: `C` `C++` `Project` `Euler` `Solutions`  
+###### tags: `Project` `Euler` `Solutions`  
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -47,7 +47,8 @@ To run and test the solutions in this repository, you will need a C++ compiler i
 
 ### Prerequisites
 
-- C++ Compiler (e.g., [GCC](https://gcc.gnu.org/) or [Visual Studio](https://visualstudio.microsoft.com/))
+- C++ Compiler (e.g., [GCC](https://gcc.gnu.org/) or [Visual Studio](https://visualstudio.microsoft.com/)) in case of compiling c++ files.
+- Any other language also welcomed (specify what the prerequisites and dependencies)
 
 ### Running a Solution
 
