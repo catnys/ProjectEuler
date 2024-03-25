@@ -1,6 +1,8 @@
-# Project Euler - Problem 23: Non-abundant Sums
+# Project Euler - Problem 23
 
-## Problem Description
+## Non-abundant Sums
+
+## Problem Statement
 
 In this problem, we are tasked with finding the sum of all positive integers that cannot be written as the sum of two abundant numbers, where an abundant number is defined as a number for which the sum of its proper divisors exceeds the number itself. 
 
