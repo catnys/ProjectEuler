@@ -22,6 +22,3 @@ Therefore, the sum of the digits in 10! is 27.
 To solve the problem, you can use a programming language of your choice and create a script or program to calculate the factorial of N and then sum its digits.
 
 Feel free to contribute your solution or discuss the problem in the Project Euler forums.
-
-Happy coding!
-
