@@ -17,6 +17,4 @@ For N = 10000:
 
 To solve the problem, you can use a programming language of your choice and create a script or program. Iterate through numbers less than N and check for amicable pairs using the definition provided.
 
-Feel free to contribute your solution or discuss the problem in the Project Euler forums.
-
-Happy coding!
+Feel free to contribute your solution or discuss the problem in the Project Euler issues tab.
