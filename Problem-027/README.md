@@ -1,4 +1,5 @@
-# Project Euler Problem 27: Quadratic Primes
+# Project Euler Problem - 27
+## `Quadratic Primes`
 
 ## Problem Statement
 This program finds the coefficients `a` and `b` for the quadratic formula `n^2 + an + b` that produces the maximum number of consecutive primes, starting from `n = 0`. The coefficients range from `-1000` to `1000`.
