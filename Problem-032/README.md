@@ -1,6 +1,6 @@
 # Project Euler - Problem 32
 
-## Pandigital Products
+## `Pandigital Products`
 
 ## Problem Statement
 
