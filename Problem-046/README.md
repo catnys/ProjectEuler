@@ -20,4 +20,4 @@
 
 ### Notes
 
-For more information and to solve the problem, visit [Project Euler - Problem 46](https://projecteuler.net/problem=47).
+For more information and to solve the problem, visit [Project Euler - Problem 46](https://projecteuler.net/problem=46).
