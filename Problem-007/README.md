@@ -1,6 +1,6 @@
 # Project Euler - Problem 7
 
-## 10001st Prime
+## `10001st Prime`
 
 ### Problem Statement
 
