@@ -1,6 +1,6 @@
 # Project Euler - Problem 42
 
-## Coded Triangle Numbers
+## `Coded Triangle Numbers`
 
 ### Problem Statement
 
