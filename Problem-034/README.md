@@ -1,11 +1,34 @@
-# Project Euler Problem - 34
+# Project Euler - Problem 34
+
 ## `Digit Factorials`
 
-## Problem Statement
+### Problem Statement
 
-The task is to find all numbers which are equal to the sum of the factorial of their digits. For instance, 145 is one such number because \(1! + 4! + 5! = 145\).
+145 is a curious number because the sum of its digits' factorials is equal to 145:
 
-## Objectives
+1! + 4! + 5! = 1 + 24 + 120 = 145
 
-1. Identify all numbers that can be expressed as the sum of the factorial of their digits.
-2. Calculate the sum of all these numbers to find the final answer.
+Find the sum of all numbers which are equal to the sum of the factorial of their digits.
+
+**Note:** As 1! = 1 and 2! = 2 are not sums they are not included.
+
+### Instructions
+
+1. Iterate through numbers and calculate the sum of the factorial of their digits.
+2. Check if the number is equal to the sum of the factorial of its digits.
+3. Sum all numbers that meet the criteria.
+4. Output the result.
+
+### Example
+
+For the number 145:
+- Digits: 1, 4, 5
+- Sum of factorial of digits: 1! + 4! + 5! = 1 + 24 + 120 = 145
+
+### Discussion
+
+This problem involves calculating factorials and checking numbers for the specified property. Efficient factorial computation and digit manipulation are key to solving this problem.
+
+### Notes
+
+For more information and to solve the problem, visit [Project Euler - Problem 34](https://projecteuler.net/problem=34).
