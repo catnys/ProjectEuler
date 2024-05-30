@@ -1,6 +1,6 @@
 # Project Euler - Problem 60
 
-## Prime Pair Sets
+## `Prime Pair Sets`
 
 ### Problem Statement
 
