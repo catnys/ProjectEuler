@@ -1,6 +1,7 @@
 #include <iostream>
 #include "NumberSpiralDiagonals.hpp"
 
+
 long long sumOfDiagonals(int n) {
     long long sum = 1; // Start with the center value 1
     int currentNumber = 1;
@@ -14,6 +15,7 @@ long long sumOfDiagonals(int n) {
 
     return sum;
 }
+
 
 int main() {
     int n = 1001; // The problem specifies a 1001x1001 spiral
