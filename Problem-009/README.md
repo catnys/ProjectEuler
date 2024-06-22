@@ -1,6 +1,6 @@
 # Project Euler - Problem 9
 
-## Special Pythagorean Triplet
+## `Special Pythagorean Triplet`
 
 ### Problem Statement
 
