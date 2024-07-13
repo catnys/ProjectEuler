@@ -1,6 +1,6 @@
 # Project Euler - Problem 10
 
-## Summation of Primes
+## `Summation of Primes`
 
 ### Problem Statement
 
