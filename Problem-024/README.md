@@ -1,6 +1,6 @@
 # Project Euler - Problem 24
 
-## Lexicographic permutations
+## `Lexicographic permutations`
 
 ### Problem Statement
 
