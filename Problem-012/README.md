@@ -1,6 +1,6 @@
 # Project Euler - Problem 12
 
-## Highly Divisible Triangular Number
+## `Highly Divisible Triangular Number`
 
 ### Problem Statement
 
