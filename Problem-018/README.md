@@ -1,4 +1,6 @@
-# Project Euler - Problem 18: Maximum Path Sum I
+# Project Euler - Problem 18
+
+# `Maximum Path Sum I`
 
 ## Introduction
 This repository contains a solution for [Project Euler Problem 18](https://projecteuler.net/problem=18), titled "Maximum Path Sum I." The problem involves finding the maximum sum of a path from the top to the bottom of a given triangle of numbers. The objective is to determine the highest possible total by moving only to adjacent numbers on the row below.
