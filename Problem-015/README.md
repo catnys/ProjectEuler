@@ -1,4 +1,6 @@
-# Project Euler: Problem 15 - Lattice paths
+# Project Euler: Problem 15
+
+# `Lattice paths`
 
 ## Problem Description
 
