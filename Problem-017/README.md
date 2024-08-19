@@ -20,10 +20,3 @@ For the range 1 to 5:
 - 5 is written as "five" and has 4 letters
 
 Therefore, the total number of letters is 3 + 3 + 5 + 4 + 4 = 19.
-
-## Run the Code
-
-To solve the problem, you can use a programming language of your choice and create a script or program. Simply input the range (1 to 1000) and calculate the total number of letters used to write out the numbers in words.
-
-Feel free to contribute your solution or discuss the problem in the Project Euler repo.
-
