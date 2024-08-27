@@ -1,5 +1,4 @@
 # Project Euler - Problem 20
-
 ## Description
 
 n! means n × (n − 1) × ... × 3 × 2 × 1
