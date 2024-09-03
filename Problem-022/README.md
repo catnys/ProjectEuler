@@ -1,5 +1,5 @@
 # Project Euler - Problem 22
-## Names Scores
+## `Names Scores`
 
 ## Problem Statement
 
