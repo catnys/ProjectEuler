@@ -1,6 +1,6 @@
 # Project Euler - Problem 8
 
-## Largest Product in a Series
+## `Largest Product in a Series`
 
 ### Problem Statement
 
