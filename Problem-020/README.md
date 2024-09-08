@@ -1,23 +1,29 @@
 # Project Euler - Problem 20
-## Description
+
+## `Factorial Digit Sum`
+
+### Problem Statement
 
 n! means n × (n − 1) × ... × 3 × 2 × 1
 
-For example, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800,
-and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
+For example, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800, and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
 
-Find the sum of the digits in the number N!.
+Find the sum of the digits in the number 100!
 
-## Example
+### Instructions
 
-For N = 10:
-- The factorial of 10 is 10! = 3628800.
-- The sum of the digits in 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
+1. Compute the factorial of 100.
+2. Extract the digits from the result and sum them.
+3. Output the sum.
 
-Therefore, the sum of the digits in 10! is 27.
+### Example
 
-## Run the Code
+For 10!, the sum of the digits is 27. You need to compute the sum of the digits of 100!.
 
-To solve the problem, you can use a programming language of your choice and create a script or program to calculate the factorial of N and then sum its digits.
+### Discussion
 
-Feel free to contribute your solution or discuss the problem in the Project Euler forums.
+This problem involves calculating large factorials and manipulating the resulting digits. Python’s built-in arbitrary-precision arithmetic can handle the large number resulting from 100!, and extracting and summing the digits is straightforward.
+
+### Notes
+
+For more information and to solve the problem, visit [Project Euler - Problem 20](https://projecteuler.net/problem=20).
